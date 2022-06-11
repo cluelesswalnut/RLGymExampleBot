@@ -5,6 +5,8 @@ rlbot==1.*
 torch==1.9.1+cpu
 rlgym-compat>=1.0.2
 numpy
+stable-baselines3
+rlgym==1.1.0
 
 # This will cause pip to auto-upgrade and stop scaring people with warning messages
 pip
